@@ -1,0 +1,23 @@
+== Change log ==
+
+= 1.0 =
+* Added courses section
+* Added events section
+* Added hero content section
+* Added news section
+* Added news ticker section
+* Added our professors section
+* Added portfolio section
+* Added testimonial section
+* Separated Custom CSS
+* Initial Release in https://catchthemes.com/
+
+
+= 0.2 =
+* Added Slider in featured content
+* Bug Fixed: `sprintf() too few arguments` issue on other languages
+* Code Optimizations
+* Updated Scripts for menu (Removed sidr and added core twentysixteen menu)
+
+= 0.1 =
+* Submitted to WordPress.org
